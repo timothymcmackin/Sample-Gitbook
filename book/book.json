@@ -6,7 +6,8 @@
         "toggle-chapters",
         "jsbin",
         "anchors",
-        "-mathjax"
+        "-mathjax",
+        "swagger"
     ],
     "links": {
         "sharing": {
